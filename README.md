@@ -22,13 +22,13 @@ Before starting the application, make sure you have the following installed:
 1. Clone this code repository to your machine:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/yvsmlk/connection.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd your-repo
+cd node-Mysql
 ```
 
 3. Install project dependencies by running the following command:
@@ -45,7 +45,7 @@ npm install
 npm start
 ```
 
-The application will be accessible at [http://localhost:3000](http://localhost:3000) in your browser.
+The application will be accessible at [http://localhost:6001](http://localhost:6001) in your browser.
 
 ## Author
 
